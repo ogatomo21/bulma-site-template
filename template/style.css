@@ -1,0 +1,9 @@
+/* Bulma v1系統のクソ太い英語を直す用 */
+*, html, body {
+    font-family: "ヒラギノ角ゴ W3", "Noto Sans JP", "BIZ UDPゴシック", sans-serif;
+}
+
+/* ボタンのテキストが見にくいので変更 */
+.button.is-primary, .button.is-info,  .button.is-success,  .button.is-warning,  .button.is-danger {
+    color: #FFF;
+}
